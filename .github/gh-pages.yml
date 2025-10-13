@@ -34,3 +34,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: main
           publish_dir: ./public
+          # Add this line to deploy contents of public/ to root
+          destination_dir: ./
