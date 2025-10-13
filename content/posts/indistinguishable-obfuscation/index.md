@@ -3,7 +3,7 @@ title: "indistinguishable-obfuscation"
 date: 2025-10-12T10:00:00+00:00
 # featureimage: "https://blowfish.page/img/blowfish_logo_hu_287064b58dc25159.png"
 draft: false
-description: "A comprehensive guide to setting up your first Hugo website with the beautiful Blowfish theme."
+description: "A comprehensive guide to setting up your first Hugo website with the beautiful Blowfish theme. "
 tags: ["tech", "research", "math"]
 categories: ["research"]
 author: "Michael Bjeski"
