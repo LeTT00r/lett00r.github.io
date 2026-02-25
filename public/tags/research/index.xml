@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research on Michael Bjeski</title>
-    <link>http://localhost:1313/homepage/tags/research/</link>
+    <link>http://localhost:1313/tags/research/</link>
     <description>Recent content in Research on Michael Bjeski</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>olaamigo@posteo.ch (Michael Bjeski)</managingEditor>
     <webMaster>olaamigo@posteo.ch (Michael Bjeski)</webMaster>
-    <copyright>© 2025 Michael Bjeski</copyright>
-    <lastBuildDate>Sun, 12 Oct 2025 10:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/homepage/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 Michael Bjeski</copyright>
+    <lastBuildDate>Sun, 12 Oct 2025 10:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/research/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>indistinguishable-obfuscation</title>
-      <link>http://localhost:1313/homepage/posts/indistinguishable-obfuscation/</link>
+      <link>http://localhost:1313/posts/indistinguishable-obfuscation/</link>
       <pubDate>Sun, 12 Oct 2025 10:00:00 +0000</pubDate>
       <author>olaamigo@posteo.ch (Michael Bjeski)</author>
-      <guid>http://localhost:1313/homepage/posts/indistinguishable-obfuscation/</guid>
+      <guid>http://localhost:1313/posts/indistinguishable-obfuscation/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/homepage/posts/indistinguishable-obfuscation/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/indistinguishable-obfuscation/featured.jpg" />
     </item>
     
   </channel>
